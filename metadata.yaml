@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34976'
     url: http://www.gutenberg.org/2009/agents/34976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31048#A-Battery-at-Close-Quarters--13-A-Paper-Read-before-the-Ohio-Commandery-of-the-Loyal-Legion-O_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-01-23'
 gutenberg_type: Text
