@@ -1,0 +1,31 @@
+_repo: A-Battery-at-Close-Quarters--13-A-Paper-Read-before-the-Ohio-Commandery-of-the-Loyal-Legion-O__31048
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31048-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Neil, Henry M. (Henry Moore)
+    birthdate: 1832
+    gutenberg_agent_id: '34976'
+    url: http://www.gutenberg.org/2009/agents/34976
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31048'
+  lccn: '18014461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Corinth, Battle of, Corinth, Miss., 1862'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Iuka (Miss.) -- History -- Siege, 1862'
+- !lcc 'E456'
+- !lcsh 'United States. Army. Ohio Artillery. 11th Independent Battery, 1862-1865'
+title: "A Battery at Close Quarters\r\nA Paper Read before the Ohio Commandery of\
+  \ the Loyal Legion, October 6, 1909"
+url: http://www.gutenberg.org/ebooks/31048
